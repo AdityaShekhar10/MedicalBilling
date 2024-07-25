@@ -3,4 +3,5 @@ Software Details
 software       version
 
 
-sql server       2010 Community Edition
+sql server       2010 Express Edition
+
