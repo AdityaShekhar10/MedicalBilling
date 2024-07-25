@@ -1,0 +1,6 @@
+Software Details
+
+software       version
+
+
+sql server       2008 Express Edition
