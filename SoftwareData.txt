@@ -3,4 +3,4 @@ Software Details
 software       version
 
 
-sql server       2008 Express Edition
+sql server       2010 Community Edition
